@@ -1,3 +1,1 @@
-'Hello, Hexlet!' 
-I add some strings.
-Ok.
+I like to change files
